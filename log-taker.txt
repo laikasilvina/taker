@@ -2721,3 +2721,15 @@
 4/2/2025 | 8:25:09 PM | WARN | Retrying... (0 attempts left) 
 4/2/2025 | 8:25:13 PM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/2/2025 | 8:25:13 PM | ERROR | Failed to retrieve nonce for wallet: 0xb9fe451fA5DdBf98e6Cd4E09778f6E80a8055A3B 
+4/3/2025 | 1:49:02 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 1:49:02 AM | INFO | Start process for wallet 0xb9fe451fA5DdBf98e6Cd4E09778f6E80a8055A3B 
+4/3/2025 | 1:49:02 AM | INFO | Trying To Login for wallet: 0xb9fe451fA5DdBf98e6Cd4E09778f6E80a8055A3B 
+4/3/2025 | 1:49:03 AM | INFO | Login successful... 
+4/3/2025 | 1:49:03 AM | INFO | Trying to check user info... 
+4/3/2025 | 1:49:04 AM | INFO | User ID: 28218556 | Twitter: @laikasilvi | Total Points: 1056000 
+4/3/2025 | 1:49:04 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 1:49:05 AM | INFO | Last mining time: 4/1/2025, 12:48:24 PM
+4/3/2025 | 1:49:05 AM | INFO | Trying to start Mining for wallet: 0xb9fe451fA5DdBf98e6Cd4E09778f6E80a8055A3B 
+4/3/2025 | 1:49:05 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/3/2025 | 1:49:05 AM | INFO | Trying to activate mining on-chain for wallet: 0xb9fe451fA5DdBf98e6Cd4E09778f6E80a8055A3B 
+4/3/2025 | 1:49:16 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x7f51277be16ef89bd75a26385ec90ecbc9dd8368f29f44a2d901c1a5e448e833 
