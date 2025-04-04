@@ -2799,3 +2799,12 @@
 4/4/2025 | 4:26:44 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 4/4/2025 | 4:26:44 AM | INFO | Trying to activate mining on-chain for wallet: 0xb9fe451fA5DdBf98e6Cd4E09778f6E80a8055A3B 
 4/4/2025 | 4:26:49 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xf5627f1fce588e058bbfc85ec01b84dd29639ed292df1c7b79a93e76951fcef8 
+4/4/2025 | 8:29:33 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/4/2025 | 8:29:34 AM | INFO | Start process for wallet 0xb9fe451fA5DdBf98e6Cd4E09778f6E80a8055A3B 
+4/4/2025 | 8:29:35 AM | INFO | Trying To Login for wallet: 0xb9fe451fA5DdBf98e6Cd4E09778f6E80a8055A3B 
+4/4/2025 | 8:29:35 AM | INFO | Login successful... 
+4/4/2025 | 8:29:35 AM | INFO | Trying to check user info... 
+4/4/2025 | 8:29:36 AM | INFO | User ID: 28218556 | Twitter: @laikasilvi | Total Points: 1104000 
+4/4/2025 | 8:29:36 AM | INFO | Trying to check user miner status... 
+4/4/2025 | 8:29:37 AM | INFO | Last mining time: 4/4/2025, 4:26:48 AM
+4/4/2025 | 8:29:37 AM | WARN | Mining already started, next mining time is: 4/5/2025, 4:26:48 AM
